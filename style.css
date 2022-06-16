@@ -1,0 +1,22 @@
+.orange-bg{
+    background-color:#fceae8;
+    border-radius: 20px;
+
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.price{
+    color: red;
+    margin-bottom: 20px;
+}
+.btn-danger{
+
+cursor: pointer;
+}
+.container{
+    margin-bottom: 20px;
+}
+h1{
+    font-weight: 700;
+}
