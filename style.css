@@ -16,7 +16,72 @@ cursor: pointer;
 }
 .container{
     margin-bottom: 20px;
+    border-radius: 10px;
 }
 h1{
     font-weight: 700;
+}
+.cat1{
+    background-color: #ffa500;
+}
+.cat2{
+    background-color: rgba(222, 13, 222, 0.603);
+}
+.cat3{
+    background-color: blue;
+}
+.categories{
+    padding-left: 30px;
+    padding-top: 30px;
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 10px;
+}
+.heading{
+    text-align: center;
+    padding: 20px;
+}
+.card-tile{
+
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px;
+
+}
+.subscribtion{
+    padding-top:20px;
+    margin: 20px;
+}
+.sub{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+.last-talk{
+    color: red;
+    margin-left: 20%;
+}
+.orange{
+    background-color: gold;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+.last-talk1{
+    margin-left: 20%;
+}
+footer{
+    text-align: center;
+}
+.heading3{
+    font-weight: 700;
+    color: black; 
+    text-align: center;
+}
+.heading4{
+     color: blue;
 }
